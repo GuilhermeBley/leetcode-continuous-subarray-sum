@@ -31,7 +31,7 @@ public class Solution {
             }
 
             //
-            // Doing the sum of the previous, it's necessary to storage the first element in case of the result being all the list.
+            // Adding the sum of the previous, it's necessary to store the first element in case the result is all the list.
             //
             sumRests.Add(previousRest);
             previousRest = rest;
